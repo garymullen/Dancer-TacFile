@@ -1,0 +1,5 @@
+
+A simple Dancer RESTful service to retrieve files.
+
+Files are streamed and can also be tac'd.
+
